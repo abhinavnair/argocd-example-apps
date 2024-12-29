@@ -21,4 +21,4 @@ to explore ArgoCD and GitOps!
 | [apps](apps/) | An app composed of other apps |
 
 
-Test 2
+Test 3
